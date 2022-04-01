@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "385ee3571839d513",
+    "type": "split",
+    "children": [
+      {
+        "id": "a44dc9e8d9a63bbe",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a89302cc711d8a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0a870f92933a55d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1760421109988301",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c78136490180fdfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9ca359eaaac2fe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9059fae811419114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a669944e4ab53df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a44dc9e8d9a63bbe",
+  "lastOpenFiles": [
+    "es/filebeat2.md",
+    "es/README.md"
+  ]
+}
